@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="86387" started-at="2019-03-29T09:55:32Z" finished-at="2019-03-29T09:56:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="86387" started-at="2019-03-29T09:55:32Z" finished-at="2019-03-29T09:56:58Z">
+      <class name="com.voyager.qa.testcases.SetUpPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="22429" started-at="2019-03-29T09:55:32Z" finished-at="2019-03-29T09:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="profilesettingTest()[pri:1, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="profilesettingTest" duration-ms="9010" started-at="2019-03-29T09:55:54Z" finished-at="2019-03-29T09:56:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilesettingTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="TearDown" is-config="true" duration-ms="1299" started-at="2019-03-29T09:56:03Z" finished-at="2019-03-29T09:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="19544" started-at="2019-03-29T09:56:04Z" finished-at="2019-03-29T09:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpGlobaltextTest()[pri:1, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="setUpGlobaltextTest" duration-ms="6948" started-at="2019-03-29T09:56:24Z" finished-at="2019-03-29T09:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpGlobaltextTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="TearDown" is-config="true" duration-ms="1203" started-at="2019-03-29T09:56:31Z" finished-at="2019-03-29T09:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="17692" started-at="2019-03-29T09:56:32Z" finished-at="2019-03-29T09:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="billingtextest()[pri:2, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="billingtextest" duration-ms="6923" started-at="2019-03-29T09:56:50Z" finished-at="2019-03-29T09:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- billingtextest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.voyager.qa.testcases.SetUpPageTest@4bec1f0c]" name="TearDown" is-config="true" duration-ms="1311" started-at="2019-03-29T09:56:57Z" finished-at="2019-03-29T09:56:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.voyager.qa.testcases.SetUpPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
